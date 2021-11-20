@@ -1,5 +1,7 @@
 # EFIDroid configuration for Xiaomi Redmi Note 5 Plus (vince)
 
+### I don't know if this is available, please use it carefully!
+
 ## Spec Sheet
 
 | Feature                 | Specification                     |
